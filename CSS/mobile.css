@@ -1,0 +1,80 @@
+/* navbar */
+#navbar h1 { 
+  float: none;
+  text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+  float: none;
+}
+
+#navbar ul li {
+  text-align: center;
+  border-bottom: #444 dotted 1px;
+}
+#navbar ul li a {
+  padding: 10px;
+}
+
+/* header */
+.head-info {
+  padding-top: 100px;
+}
+
+.head-info h1 {
+  line-height: 60px;
+}
+/* home section */
+#home-info {
+  height: 500px;
+}
+
+#home-info .home-img{
+  display: none;
+}
+
+#home-info .home-text {
+  float: none;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  overflow: hidden;
+  height: 100%;
+}
+
+#home-info {
+  height: 410px;
+}
+
+/* features */
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* about info */
+
+#about-info {
+  height: 700px;
+}
+
+#about-info .about-left,
+#about-info .about-right {
+  float: none;
+  width: 100%;
+}
+#about-info .about-left {
+  margin-bottom: 40px;
+}
+
+#about-info .about-left h1 {
+  text-align: center;
+}
+#about-info .about-left p {
+  text-align: center;
+ 
+}
+
+
+
